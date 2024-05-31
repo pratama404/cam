@@ -12,7 +12,7 @@ Before you begin, ensure you have met the following requirements:
 You can install the required packages using pip:
 ```bash
 pip install opencv-python opencv-python-headless numpy
-
+```
 ## our documentation
 ![Face and Eye Detection](image.png) 
 
